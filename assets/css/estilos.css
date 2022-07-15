@@ -1,0 +1,94 @@
+.header {
+    background-color: black;
+    height: 70px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.titulo {
+    color: green;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
+}
+
+.fondo {
+    height: 600px;
+    background-image: url(../img/iguanatop.png);
+    background-size: cover;
+}
+
+.cuerpo {
+    background-color: black;
+}
+
+.contenedor {
+    float: left;
+    background-color: black;
+}
+
+.slyder {
+    float: right;
+    height: 200px;
+    width: 350px;
+    margin: 10px 150px 10px 200px;
+    border: 10px;
+    padding: 10px;
+}
+
+.parrafo {
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px 20px 20px 100px;
+    border: 10px;
+}
+
+#section {
+    background-color: #1E1A13;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.iconos {
+    font-size: 50px;
+    display: inline-block;
+    margin: 5px 130px 5px 130px;
+    padding: 5px 60px 5px 60px;
+    color: white;
+}
+
+.datos {
+    font-size: 30px;
+    margin: 5px 135px 5px 135px;
+    padding: 5px 30px 20px 30px;
+    display: inline-block;
+    color: white;
+}
+
+.imagenes {
+    height: 200px;
+    width: 350px;
+    font-size: 100px;
+    margin: 10px 25px 10px 25px;
+    padding: 10px 20px 10px 20px;
+}
+
+.section {
+    background-color: black;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    background-color: #1E1A13;
+    padding: 15px;
+}
+
+.body {
+    background-color: black;
+}
